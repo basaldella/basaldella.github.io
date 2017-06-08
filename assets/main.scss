@@ -2,8 +2,26 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+h1 {
+	font-family: hammersmith-one, sans-serif;
+}
+
+.table {
+	display: table !important;
+}
+
+.social-icons {
+	display: inline-block !important;
+	margin-right: 8px;
+	margin-top: 16px;
+}
+
 .flexbox-container {
    height: 100%;
+}
+
+.ml-s {
+	margin-left: 4px;
 }
 
 .debug-background {
@@ -11,7 +29,22 @@
 }
 
 .index-content {
-	text-align: right;
+	text-align: left;
+}
+
+h1.index-banner {
+	margin-left: -0.25em;
+	font-weight : bold;
+	font-size : 7em;
+}
+
+.border-top { 
+	border-top: 2px solid; border-color: black; 
+}
+
+.link-social { 
+	margin-top: 32px;
+	margin-left: 8px;
 }
 
 .vertical-center {
@@ -56,16 +89,34 @@
           justify-content : center;
 }
 
-
+@media (max-width: 1200px) {
+	h1.index-banner {
+		font-size : 6em;
+	}	
+}
 	
 @media (max-width: 768px) {
 	.vertical-center {
 		flex-direction: column;
 	}
-	.index-content {
-		text-align: center;
+	h1.index-banner {
+		font-size : 5em;
 	}
 	.debug-background {
 		background-color: red;
 	}
+}
+
+@media (max-width: 576px) {
+	h1.index-banner {
+		font-size : 3em;
+	}
+	
+}
+
+@media (max-width: 320px) {
+	h1.index-banner {
+		font-size : 2em;
+	}
+	
 }

@@ -5,6 +5,7 @@
 layout: home
 ---
 
-# Marco Basaldella
-
-### researcher, consultant
+<h1 class="index-banner">
+Hello,<br/>
+This is Marco.
+</h1>
