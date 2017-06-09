@@ -2,8 +2,20 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-h1 {
-	font-family: hammersmith-one, sans-serif;
+@mixin headings {
+    h1, h2, h3,
+    h4, h5, h6 {
+        @content;
+    }
+}
+
+@include headings {
+	font-family: 'Nunito', Arial, sans-serif;
+	font-weight : bold;
+}
+
+p {
+	font-family: 'Cardo', serif;
 }
 
 .table {
@@ -32,9 +44,17 @@ h1 {
 	text-align: left;
 }
 
+/* Navbar */
+
+li.navbar {
+	font-family: 'Nunito', Arial, sans-serif;
+	font-weight : bold;	
+}
+
+/* Home page */
+
 h1.index-banner {
 	margin-left: -0.25em;
-	font-weight : bold;
 	font-size : 7em;
 }
 
