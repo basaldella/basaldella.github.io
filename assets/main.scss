@@ -18,37 +18,88 @@ p {
 	font-family: 'Cardo', serif;
 }
 
-.table {
-	display: table !important;
-}
-
-.social-icons {
-	display: inline-block !important;
-	margin-right: 8px;
-	margin-top: 16px;
-}
-
-.flexbox-container {
-   height: 100%;
-}
-
-.ml-s {
-	margin-left: 4px;
-}
-
 .debug-background {
 	background-color: blue;
 }
 
-.index-content {
-	text-align: left;
-}
-
 /* Navbar */
 
-li.navbar {
+.navbar {
 	font-family: 'Nunito', Arial, sans-serif;
-	font-weight : bold;	
+	font-weight: bold;
+}
+
+.border-bottom { 
+	border-bottom: 2px solid; 
+	border-color: black; 
+}
+
+$bgDefault      : white;
+$bgHighlight    : white;
+$colDefault     : black;
+$colHighlight   : black;
+$dropDown       : true;
+.navbar-default {
+  background-color: $bgDefault;
+  .navbar-brand {
+    color: $colDefault;
+    &:hover, &:focus {
+      color: $colHighlight; }}
+  .navbar-text {
+    color: $colDefault; }
+  .navbar-nav {
+    > li {
+      > a {
+        color: $colDefault;
+        &:hover,  &:focus {
+          color: $colHighlight; }}
+      @if $dropDown {
+        > .dropdown-menu {
+          background-color: $bgDefault;
+          > li {
+            > a {
+              color: $colDefault;
+              &:hover,  &:focus {
+                color: $colHighlight;
+                background-color: $bgHighlight; }}
+            &.divider {
+              background-color: $bgHighlight;}}}}}
+    @if $dropDown {
+      .open .dropdown-menu > .active {
+        > a, > a:hover, > a:focus {
+          color: $colHighlight;
+          background-color: $bgHighlight; }}}
+    > .active {
+      > a, > a:hover, > a:focus {
+        color: $colHighlight;
+        background-color: $bgHighlight; }}
+    > .open {
+      > a, > a:hover, > a:focus {
+        color: $colHighlight;
+        background-color: $bgHighlight; }}}
+  .navbar-toggle {
+    border-color: $bgHighlight;
+    &:hover, &:focus {
+      background-color: $bgHighlight; }
+    .icon-bar {
+      background-color: $colDefault; }}
+  .navbar-collapse,
+  .navbar-form {
+    border-color: $colDefault; }
+  .navbar-link {
+    color: $colDefault;
+    &:hover {
+      color: $colHighlight; }}}
+@media (max-width: 767px) {
+  .navbar-default .navbar-nav .open .dropdown-menu {
+    > li > a {
+      color: $colDefault;
+      &:hover, &:focus {
+        color: $colHighlight; }}
+    > .active {
+      > a, > a:hover, > a:focus {
+        color: $colHighlight;
+        background-color: $bgHighlight; }}}
 }
 
 /* Home page */
@@ -57,6 +108,54 @@ h1.index-banner {
 	margin-left: -0.25em;
 	font-size : 7em;
 }
+
+.table {
+	display: table !important;
+}
+
+.social-icons {
+	display: inline-block !important;
+	margin-right: 8px;
+	margin-top: 8px;
+}
+
+a.social-icons {
+	color: black;
+	text-decoration: none;
+}
+
+a.social-icons:hover, a.social-icons:focus {
+	color: gray;
+	text-decoration: none;
+}
+
+@media (max-width: 576px) {
+  .bigSocial {
+    display:none;
+  }
+  .smallSocial {
+    display:block;
+  }
+}
+
+@media (min-width: 577px) {
+  .bigSocial {
+    display:block;
+  }
+  .smallSocial {
+    display:none;
+  }
+}
+
+.flexbox-container {
+   height: 100%;
+}
+
+
+.index-content {
+	text-align: left;
+}
+
 
 .border-top { 
 	border-top: 2px solid; border-color: black; 
