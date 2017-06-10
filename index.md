@@ -4,3 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+<h1 class="index-banner">
+Hello,<br/>
+This is Marco.
+</h1>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+	{% include head.html %}
+	<body>
+		<div class="home">
+			{% include navbar.html %}
+			<main class="container" aria-label="Content">				
+				<div class="row vertical-center">
+					<div class="col-md-8 index-content">
+						{{ content }}
+						<div class="row">
+							<div class="col-md-4 col-sm-6 col-xs-8 border-top" >
+								<div class="table">
+									<div class="social-icons">
+										<a href=a href="http://www.google.com/recaptcha/mailhide/d?k=01im_DHovX0rq5o5V8iTL9WA==&amp;c=tsp3aXPXX_3jHGzvnrw2do1pO7DrVOizJTsFdxiEYYE=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\x3d01im_DHovX0rq5o5V8iTL9WA\x3d\x3d\x26c\x3dtsp3aXPXX_3jHGzvnrw2do1pO7DrVOizJTsFdxiEYYE\x3d', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" class="social-icons" title="Drop me an email">
+										<i class="fa fa-envelope fa-2x bigSocial"></i>
+										<i class="fa fa-envelope smallSocial"></i>
+										</a>
+									</div>
+									<div class="social-icons">
+										<a href="https://github.com/{{ site.github_username }}" class="social-icons" title="Fork me on GitHub">
+										<i class="fa fa-github fa-2x bigSocial"></i>
+										<i class="fa fa-github smallSocial"></i>
+										</a>
+									</div>
+									<div class="social-icons">
+										<a href="https://linkedin.com/in/{{ site.linkedin_username }}" class="social-icons" title="Find me on LinkedIn">
+										<i class="fa fa-linkedin fa-2x bigSocial"></i>
+										<i class="fa fa-linkedin smallSocial"></i>
+										</a>
+									</div>
+								</div>
+							</div>
+
+						</div>
+					</div>
+				</div>
+			</main>
+
+		</div>
+	{% include bootstrap-footer.html %}	
+	</body>
+
+</html>
