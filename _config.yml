@@ -18,15 +18,24 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Marco Basaldella's personal website.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://basaldella.it" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mdotbdot
 github_username:  basaldella
 linkedin_username: marcobasaldella
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input:          GFM
+  syntax_highlighter: rouge
+
 gems:
   - jekyll-feed
+  - rouge
 exclude:
   - Gemfile
   - Gemfile.lock
+
+  
