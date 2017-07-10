@@ -2,6 +2,21 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+/* COLORS */
+
+$whitish:  #FCFCFC; /* #FDFDFD;*/
+$dark-blue: #336699;
+$light-blue: #0066BB;
+$orange: #DE4A40;
+$red: #CD1F2D;
+
+/* General rules */
+
+body {
+	padding-top: 52px; /* 50+2 extra pixels for navbar+border */
+	background: $whitish;
+}
+
 @mixin headings {
     h1, h2, h3,
     h4, h5, h6 {
@@ -12,14 +27,76 @@
 @include headings {
 	font-family: 'Nunito', Arial, sans-serif;
 	font-weight : bold;
+	margin-bottom : 0.75em;
+	margin-top : 1em;
 }
 
-p {
+p, li {
 	font-family: 'Cardo', serif;
+	font-size: 1.25em;
+	text-align: justify;
 }
 
-.debug-background {
-	background-color: blue;
+blockquote {
+	font-size: 1em;
+	border-left: 5px solid #ccc;
+}
+
+a {
+	color: $light-blue;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:focus, a:hover {
+    color: $dark-blue;
+    text-decoration: underline;
+	font-weight: bold;
+}
+
+/* Bio */
+
+.nav-tabs > li.active > a{
+background: white; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(white, $whitish); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(white, $whitish); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(white, $whitish); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(white, $whitish); /* Standard syntax */
+}
+
+p.papertitle {
+	font-size: 1em;
+	font-weight: bold;
+	margin-bottom: 0em;
+}
+
+p.paperauthors {
+	font-size: 1em;
+	margin-bottom: 0em;
+}
+
+p.paperdesc {
+	font-size: 1em;
+	font-style: italic;
+	margin-bottom: 0em;
+}
+
+
+.content-column {
+	margin-top: 4em;
+}
+
+/* Footer */
+
+.site-footer {
+	margin-top: 4em;
+	text-align: center;
+}
+
+p.footer-content {
+	font-size: 1em;
+	color: gray;
+	text-align: center;
 }
 
 /* Navbar */
@@ -29,13 +106,18 @@ p {
 	font-weight: bold;
 }
 
+li.navbar-links {
+	font-family: 'Nunito', Arial, sans-serif;
+	font-weight : bold;
+}
+
 .border-bottom { 
 	border-bottom: 2px solid; 
 	border-color: black; 
 }
 
-$bgDefault      : white;
-$bgHighlight    : white;
+$bgDefault      : $whitish;
+$bgHighlight    : $whitish;
 $colDefault     : black;
 $colHighlight   : black;
 $dropDown       : true;
@@ -105,8 +187,10 @@ $dropDown       : true;
 /* Home page */
 
 h1.index-banner {
+	margin-top: -1.25em;
 	margin-left: -0.25em;
 	font-size : 7em;
+	margin-bottom: 0;
 }
 
 .table {
@@ -124,7 +208,7 @@ a.social-icons {
 	text-decoration: none;
 }
 
-a.social-icons:hover, a.social-icons:focus {
+a.social-icons:hover {
 	color: gray;
 	text-decoration: none;
 }
@@ -158,7 +242,19 @@ a.social-icons:hover, a.social-icons:focus {
 
 
 .border-top { 
-	border-top: 2px solid; border-color: black; 
+	border-color: black; 
+}
+
+@media (max-width: 576px) {
+	.border-top {
+		border-top: 1px solid;
+	}
+}
+
+@media (min-width: 577px) {
+	.border-top {
+		border-top: 2px solid;
+	}
 }
 
 .link-social { 
