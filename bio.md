@@ -14,21 +14,18 @@ permalink: bio.html
 <div role="tabpanel" class="tab-pane active" id="english" markdown="1">
 ## About me
 
-Hello, I'm Marco Basaldella, a Ph.D. student from the University of Udine, in north-eastern Italy. My research interests lie in the fields of machine learning and information extraction; right now, I'm particularly interested in the intersection between the two, thanks to the new exciting opportunities offered by deep learning.
+Hello, I am Marco Basaldella, a Ph.D. student from the University of Udine, in northeastern Italy. My research interests lie in the fields of machine learning and information extraction; right now, I am particularly interested in the intersection between the two, thanks to the new exciting opportunities offered by deep learning.
 
 Before...
-<ul>
-	<li>In 2016, I was a visiting researcher at the University of Zurich, at the Institute for Computer Linguistic for a couple of months</li>
-	<li>I got a BSc and a MSc in Computer Science at the University of Udine</li>
-	<li>I worked as a developer for some local companies during my bachelors and masters</li>
-	<li>I made some apps for Windows Phone, that made <a href="images/downloads.JPG">a couple of millions downloads</a> before Microsoft decided to dump the OS</li>
-	<li>I was a Microsoft Student Partner for many years</li>
-	<li>I was among the founders of the FabLab of my city</li>
-	<li>I was in the organizers of the Open Source Day (former Linux Day) of my city</li>
-	<li>I was president of AsCI (Associazione Cultura Informatica, literally Association for the Computer Science Culture), a student association at my university that organized the Open Source/Linux Day</li>
-</ul>
 
-
+- In 2016, I was a visiting researcher at the University of Zurich, at the Institute for Computer Linguistic for a couple of months
+- I got a BSc and a MSc in Computer Science at the University of Udine
+- I worked as a developer for some local companies during my bachelors and masters
+- I made some apps for Windows Phone, that made <a href="images/downloads.JPG">a couple of millions downloads</a> before Microsoft decided to dump the OS
+- I was a Microsoft Student Partner for many years
+- I was among the founders of the FabLab of my city
+- I was one of the organizers of the Open Source Day (former Linux Day) of my city
+- I was president of AsCI (Associazione Cultura Informatica, literally Association for the Computer Science Culture), a student association at my university that organized the Open Source/Linux Day
 
 ## Publications
 </div>
@@ -39,16 +36,14 @@ Before...
 Sono Marco Basaldella, uno studente di dottorato dell'Università di Udine. I miei interessi in questo momento sono nei campi dell'information extraction e del machine learning; in particolare, in questo momento sono interessato all'intersezione tra i due ambiti, grazie alle nuove opportunità offerte dal deep learning.
 
 Prima di oggi...
-<ul>
-	<li>Nel 2016, sono stato ospite dell'Istituto per la Linguistica Computazionale dell'Università di Zurigo per un paio di mesi</li>
-	<li>Ho preso la Laurea Magistrale e Triennale in Informatica a Udine</li>
-	<li>Ho lavorato come programmatore in qualche azienda della zona</li>
-	<li>Ho fatto qualche app per Windows Phone che ha fatto <a href="images/downloads.JPG">un paio di milioni di download</a> prima che Microsoft abbandonasse il sistema operativo</li>
-	<li>Sono stato Microsoft Student Partner per diversi anni</li>
-	<li>Sono socio fondatore del FabLab di Udine</li>
-	<li>Sono stato tra gli organizzatori dell'Open Source Day (ex Linux Day) di Udine</li>
-	<li>Sono stato presidente di AsCI (Associazione Cultura Informatica), l'associazione studentesca che si occupava di organizzare l'Open Source Day</li>
-</ul>
+- Nel 2016, sono stato ospite dell'Istituto per la Linguistica Computazionale dell'Università di Zurigo per un paio di mesi
+- Ho preso la Laurea Magistrale e Triennale in Informatica a Udine
+- Ho lavorato come programmatore in qualche azienda della zona
+- Ho fatto qualche app per Windows Phone che ha fatto <a href="images/downloads.JPG">un paio di milioni di download</a> prima che Microsoft abbandonasse il sistema operativo
+- Sono stato Microsoft Student Partner per diversi anni
+- Sono socio fondatore del FabLab di Udine
+- Sono stato tra gli organizzatori dell'Open Source Day (ex Linux Day) di Udine
+- Sono stato presidente di AsCI (Associazione Cultura Informatica), l'associazione studentesca che si occupava di organizzare l'Open Source Day
 
 	
 ## Pubblicazioni
