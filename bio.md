@@ -13,23 +13,68 @@ permalink: bio.html
 <div class="tab-content">
 <div role="tabpanel" class="tab-pane active" id="english" markdown="1">
 ## About me
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-	
+
+Hello, I'm Marco Basaldella, a Ph.D. student from the University of Udine, in north-eastern Italy. My research interests lie in the fields of machine learning and information extraction; right now, I'm particularly interested in the intersection between the two, thanks to the new exciting opportunities offered by deep learning.
+
+Before...
+<ul>
+	<li>In 2016, I was a visiting researcher at the University of Zurich, at the Institute for Computer Linguistic for a couple of months</li>
+	<li>I got a BSc and a MSc in Computer Science at the University of Udine</li>
+	<li>I worked as a developer for some local companies during my bachelors and masters</li>
+	<li>I made some apps for Windows Phone, that made <a href="images/downloads.JPG">a couple of millions downloads</a> before Microsoft decided to dump the OS</li>
+	<li>I was a Microsoft Student Partner for many years</li>
+	<li>I was among the founders of the FabLab of my city</li>
+	<li>I was in the organizers of the Open Source Day (former Linux Day) of my city</li>
+	<li>I was president of AsCI (Associazione Cultura Informatica, literally Association for the Computer Science Culture), a student association at my university that organized the Open Source/Linux Day</li>
+</ul>
+
+
 
 ## Publications
 </div>
 
 <div role="tabpanel" class="tab-pane" id="italiano" markdown="1">
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+## Chi sono
+
+Sono Marco Basaldella, uno studente di dottorato dell'Università di Udine. I miei interessi in questo momento sono nei campi dell'information extraction e del machine learning; in particolare, in questo momento sono interessato all'intersezione tra i due ambiti, grazie alle nuove opportunità offerte dal deep learning.
+
+Prima di oggi...
+<ul>
+	<li>Nel 2016, sono stato ospite dell'Istituto per la Linguistica Computazionale dell'Università di Zurigo per un paio di mesi</li>
+	<li>Ho preso la Laurea Magistrale e Triennale in Informatica a Udine</li>
+	<li>Ho lavorato come programmatore in qualche azienda della zona</li>
+	<li>Ho fatto qualche app per Windows Phone che ha fatto <a href="images/downloads.JPG">un paio di milioni di download</a> prima che Microsoft abbandonasse il sistema operativo</li>
+	<li>Sono stato Microsoft Student Partner per diversi anni</li>
+	<li>Sono socio fondatore del FabLab di Udine</li>
+	<li>Sono stato tra gli organizzatori dell'Open Source Day (ex Linux Day) di Udine</li>
+	<li>Sono stato presidente di AsCI (Associazione Cultura Informatica), l'associazione studentesca che si occupava di organizzare l'Open Source Day</li>
+</ul>
+
 	
 ## Pubblicazioni
 </div>
 </div>
 
+<h3>2017</h3>
+
+<ul>
+<li>
+	<p class="papertitle">Bidirectional LSTM Recurrent Neural Networks for Keyphrase Extraction</p>
+	<p class="paperauthors">Elisa Antolli, Marco Basaldella, Giuseppe Serra, and Carlo Tasso</p>
+	<p class="paperdesc"><u>Submitted</u> at 16th International Conference of the Italian Association for Artificial Intelligence  (AI*IA 2017), Bari, Italy, 14-17 November 2017</p>
+</li>
+<li>
+	<p class="papertitle">Exploiting and Evaluating a Supervised, Multilanguage Keyphrase Extraction pipeline for under-resourced languages</p>
+	<p class="paperauthors">Marco Basaldella, Muhammad Helmy, Elisa Antolli, Mihai Horia Popescu, Giuseppe Serra and Carlo Tasso</p>
+	<p class="paperdesc"><u>Accepted</u> at Recent Advances In Natural Language Processing 2017 (RANLP 2017), Varna, Bulgaria,September 4-6, 2017</p>
+</li>
+</ul>
+
 <h3>2016</h3>
 <ul>
 
-<li><p class="papertitle">Evaluating anaphora and coreference resolution to improve automatic keyphrase extraction</p>
+<li>
+	<p class="papertitle">Evaluating anaphora and coreference resolution to improve automatic keyphrase extraction</p>
     <p class="paperauthors">Marco Basaldella, Giorgia Chiaradia, and Carlo Tasso</p>
     <p class="paperdesc">In COLING 2016, 26th International Conference on Computational Linguistics, Proceedings of the Conference: Technical Papers, December 11-16, 2016, Osaka, Japan, pages 804--814, 2016.</p> 
 	<a href="papers/coling2016.bib">[bib]</a>
@@ -40,7 +85,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
     <p class="paperauthors">Muhammad Helmy, Marco Basaldella, Eddy Maddalena, Stefano Mizzaro, and Gianluca Demartini</p>
     <p class="paperdesc">In 2016 International Conference on Asian Language Processing, IALP 2016, Tainan, Taiwan, November 21-23, 2016, pages 26--29, 2016.</p>
 	<a href="papers/ialp2016.bib">[bib]</a>
-	<a href="https://www.github.com/ailab-uniud/akec">[dataset]</a>
+	<a href="https://www.github.com/ailab-uniud/akec">[dataset repo]</a>
+	<a href="https://ailab-uniud.github.io/akec/">[dataset info]</a>
 </li>
 <li>
 	<p class="papertitle">Crowdsourcing Relevance Assessments: The Unexpected Benefits of Limiting the Time to Judge</p>
