@@ -54,6 +54,16 @@ a:focus, a:hover {
 	font-weight: bold;
 }
 
+hr {
+	border-top: 1px solid #CCC;
+}
+
+figure.highlight {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+
 /* Bio */
 
 .nav-tabs > li.active > a{
@@ -79,6 +89,34 @@ p.paperdesc {
 	font-size: 1em;
 	font-style: italic;
 	margin-bottom: 0em;
+}
+
+/* Blog posts */
+
+p.blogentry {
+	font-size: 1.25em;
+	font-weight: bold;
+	margin-bottom: 0em;
+}
+
+
+p.blogdesc {
+	font-size: 1em;
+	color: gray;
+	margin-bottom: 0.5em;
+}
+
+/* Single post */
+
+h1.posttitle {
+	margin-top: 0.75em;
+	margin-bottom: 0.25em;
+}
+
+p.postdesc {
+	font-size: 1em;
+	color: gray;
+	margin-bottom: 1em;
 }
 
 
