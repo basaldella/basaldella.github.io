@@ -54,14 +54,9 @@ Prima di oggi...
 
 <ul>
 <li>
-	<p class="papertitle">Bidirectional LSTM Recurrent Neural Networks for Keyphrase Extraction</p>
-	<p class="paperauthors">Elisa Antolli, Marco Basaldella, Giuseppe Serra, and Carlo Tasso</p>
-	<p class="paperdesc"><u>Submitted</u> at 16th International Conference of the Italian Association for Artificial Intelligence  (AI*IA 2017), Bari, Italy, 14-17 November 2017</p>
-</li>
-<li>
 	<p class="papertitle">Exploiting and Evaluating a Supervised, Multilanguage Keyphrase Extraction pipeline for under-resourced languages</p>
 	<p class="paperauthors">Marco Basaldella, Muhammad Helmy, Elisa Antolli, Mihai Horia Popescu, Giuseppe Serra and Carlo Tasso</p>
-	<p class="paperdesc"><u>Accepted</u> at Recent Advances In Natural Language Processing 2017 (RANLP 2017), Varna, Bulgaria,September 4-6, 2017</p>
+	<p class="paperdesc"><u>Accepted</u> at Recent Advances In Natural Language Processing 2017 (RANLP 2017), Varna, Bulgaria, September 4-6, 2017</p>
 </li>
 </ul>
 
