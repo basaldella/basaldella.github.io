@@ -50,9 +50,36 @@ Prima di oggi...
 </div>
 </div>
 
+<h3>2018</h3>
+
+<ul>
+<li>
+	<p class="papertitle">Bidirectional LSTM Recurrent Neural Network for Keyphrase Extraction</p>
+	<p class="paperauthors">Marco Basaldella, Elisa Antolli, Giuseppe Serra and Carlo Tasso</p>
+	<p class="paperdesc">Accepted for presentation at 14th Italian Research Conference on Digital Libraries (IRCDL 2018), Udine, Italy, January 25-26, 2018</p>
+	<a href="#">[bib (coming soon)]</a>
+	<a href="#">[pdf (coming soon)]</a>
+</li>
+<li>
+	<p class="papertitle">The Distiller Framework: current state and future challenges</p>
+	<p class="paperauthors">Marco Basaldella, Giuseppe Serra and Carlo Tasso</p>
+	<p class="paperdesc">Accepted for presentation at 14th Italian Research Conference on Digital Libraries (IRCDL 2018), Udine, Italy, January 25-26, 2018</p>
+	<a href="#">[bib (coming soon)]</a>
+	<a href="#">[pdf (coming soon)]</a>
+</li>
+</ul>
+
 <h3>2017</h3>
 
 <ul>
+<li>
+	<p class="papertitle">Entity recognition in the biomedical domain using a hybrid approach</p>
+	<p class="paperauthors">Marco Basaldella, Lenz Furrer, Carlo Tasso and Fabio Rinaldi</p>
+	<p class="paperdesc">To appear in Journal of Biomedical Semantics</p>
+	<a href="#">[bib (coming soon)]</a>
+	<a href="#">[pdf (coming soon)]</a>
+</li>
+
 <li>
 	<p class="papertitle">Exploiting and Evaluating a Supervised, Multilanguage Keyphrase Extraction pipeline for under-resourced languages</p>
 	<p class="paperauthors">Marco Basaldella, Muhammad Helmy, Elisa Antolli, Mihai Horia Popescu, Giuseppe Serra and Carlo Tasso</p>
