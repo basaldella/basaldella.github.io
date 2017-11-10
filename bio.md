@@ -75,9 +75,9 @@ Prima di oggi...
 <li>
 	<p class="papertitle">Entity recognition in the biomedical domain using a hybrid approach</p>
 	<p class="paperauthors">Marco Basaldella, Lenz Furrer, Carlo Tasso and Fabio Rinaldi</p>
-	<p class="paperdesc">To appear in Journal of Biomedical Semantics</p>
-	<a href="#">[bib (coming soon)]</a>
-	<a href="#">[pdf (coming soon)]</a>
+	<p class="paperdesc">Journal of Biomedical Semantics, 2017, 8:51</p>
+	<a href="papers/jbs.bib">[bib]</a>
+	<a href="https://jbiomedsem.biomedcentral.com/track/pdf/10.1186/s13326-017-0157-6">[pdf]</a>
 </li>
 
 <li>
