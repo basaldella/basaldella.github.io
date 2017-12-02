@@ -14,7 +14,7 @@ permalink: bio.html
 <div role="tabpanel" class="tab-pane active" id="english" markdown="1">
 ## About me
 
-Hello, I am Marco Basaldella, a Ph.D. student from the University of Udine, in northeastern Italy. My research interests lie in the fields of machine learning and information extraction; right now, I am particularly interested in the intersection between the two, thanks to the new exciting opportunities offered by deep learning.
+Hello, I am Marco Basaldella. I'm a research fellow and a Ph.D. candidate at University of Udine, in northeastern Italy. My research interests lie in the fields of machine learning and information extraction; right now, I am particularly interested in the intersection between the two, thanks to the new exciting opportunities offered by deep learning.
 
 Before...
 
@@ -33,7 +33,7 @@ Before...
 <div role="tabpanel" class="tab-pane" id="italiano" markdown="1">
 ## Chi sono
 
-Sono Marco Basaldella, uno studente di dottorato dell'Università di Udine. I miei interessi in questo momento sono nei campi dell'information extraction e del machine learning; in particolare, in questo momento sono interessato all'intersezione tra i due ambiti, grazie alle nuove opportunità offerte dal deep learning.
+Sono Marco Basaldella, un ricercatore e studente di dottorato dell'Università di Udine. I miei interessi in questo momento sono nei campi dell'information extraction e del machine learning; in particolare, in questo momento sono interessato all'intersezione tra i due ambiti, grazie alle nuove opportunità offerte dal deep learning.
 
 Prima di oggi...
 - Nel 2016, sono stato ospite dell'Istituto per la Linguistica Computazionale dell'Università di Zurigo per un paio di mesi
