@@ -84,8 +84,8 @@ Prima di oggi...
 	<p class="papertitle">Exploiting and Evaluating a Supervised, Multilanguage Keyphrase Extraction pipeline for under-resourced languages</p>
 	<p class="paperauthors">Marco Basaldella, Muhammad Helmy, Elisa Antolli, Mihai Horia Popescu, Giuseppe Serra and Carlo Tasso</p>
 	<p class="paperdesc">Proceedings of Recent Advances In Natural Language Processing 2017 (RANLP 2017), Varna, Bulgaria, September 4-6, 2017</p>
-	<a href="#">[bib (coming soon)]</a>
-	<a href="#">[pdf (coming soon)]</a>
+	<a href="papers/ranlp2017.bib">[bib]</a>
+	<a href="http://www.acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP012.pdf">[pdf]</a>
 </li>
 </ul>
 
