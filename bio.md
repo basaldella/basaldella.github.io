@@ -54,18 +54,25 @@ Prima di oggi...
 
 <ul>
 <li>
+	<p class="papertitle">Shut Up and Run: the Never-ending Quest for Social Fitness</p>
+	<p class="paperauthors">Linda Anticoli and Marco Basaldella</p>
+	<p class="paperdesc">Accepted for presentation at #RCBlackMirror2018: Re-Coding Black Mirror Workshop, co-located with the 27th International Conference on World Wide Web, April 24, Lyon, France</p>
+	<a href="#">[bib (coming soon)]</a>
+	<a href="#">[pdf (coming soon)]</a>
+</li>
+<li>
 	<p class="papertitle">Bidirectional LSTM Recurrent Neural Network for Keyphrase Extraction</p>
 	<p class="paperauthors">Marco Basaldella, Elisa Antolli, Giuseppe Serra and Carlo Tasso</p>
-	<p class="paperdesc">Accepted for presentation at 14th Italian Research Conference on Digital Libraries (IRCDL 2018), Udine, Italy, January 25-26, 2018</p>
+	<p class="paperdesc">Proceedings of the 14th Italian Research Conference on Digital Libraries (IRCDL 2018), Udine, Italy, January 25-26, 2018</p>
 	<a href="papers/ircdl2018-1.bib">[bib]</a>
-	<a href="#">[pdf (coming soon)]</a>
+	<!--<a href="#">[pdf (coming soon)]</a>-->
 </li>
 <li>
 	<p class="papertitle">The Distiller Framework: current state and future challenges</p>
 	<p class="paperauthors">Marco Basaldella, Giuseppe Serra and Carlo Tasso</p>
-	<p class="paperdesc">Accepted for presentation at 14th Italian Research Conference on Digital Libraries (IRCDL 2018), Udine, Italy, January 25-26, 2018</p>
+	<p class="paperdesc">Proceedings of the 14th Italian Research Conference on Digital Libraries (IRCDL 2018), Udine, Italy, January 25-26, 2018</p>
 	<a href="papers/ircdl2018-2.bib">[bib]</a>
-	<a href="#">[pdf (coming soon)]</a>
+	<!--<a href="#">[pdf (coming soon)]</a>-->
 </li>
 </ul>
 
