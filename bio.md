@@ -14,12 +14,12 @@ permalink: bio.html
 <div role="tabpanel" class="tab-pane active" id="english" markdown="1">
 ## About me
 
-Hello, I am Marco Basaldella. I'm a research fellow and a Ph.D. candidate at University of Udine, in northeastern Italy. My research interests lie in the fields of machine learning and information extraction; right now, I am particularly interested in the intersection between the two, thanks to the new exciting opportunities offered by deep learning.
+Hello, I am Marco Basaldella. I'm a research fellow and at University of Udine, in northeastern Italy. My research interests lie in the fields of machine learning and information extraction; right now, I am particularly interested in the intersection between the two, thanks to the new exciting opportunities offered by deep learning.
 
 Before...
 
 - In 2016, I was a visiting researcher at the University of Zurich, at the Institute for Computer Linguistic for a couple of months
-- I got a BSc and a MSc in Computer Science at the University of Udine
+- I got a PhD, a BSc and a MSc in Computer Science at the University of Udine
 - I worked as a developer for some local companies during my bachelors and masters
 - I made some apps for Windows Phone, that made <a href="images/downloads.JPG">a couple of millions downloads</a> before Microsoft decided to dump the OS
 - I was a Microsoft Student Partner for many years
@@ -33,11 +33,11 @@ Before...
 <div role="tabpanel" class="tab-pane" id="italiano" markdown="1">
 ## Chi sono
 
-Sono Marco Basaldella, un ricercatore e studente di dottorato dell'Università di Udine. I miei interessi in questo momento sono nei campi dell'information extraction e del machine learning; in particolare, in questo momento sono interessato all'intersezione tra i due ambiti, grazie alle nuove opportunità offerte dal deep learning.
+Sono Marco Basaldella, un ricercatore dell'Università di Udine. I miei interessi in questo momento sono nei campi dell'information extraction e del machine learning; in particolare, in questo momento sono interessato all'intersezione tra i due ambiti, grazie alle nuove opportunità offerte dal deep learning.
 
 Prima di oggi...
 - Nel 2016, sono stato ospite dell'Istituto per la Linguistica Computazionale dell'Università di Zurigo per un paio di mesi
-- Ho preso la Laurea Magistrale e Triennale in Informatica a Udine
+- Ho preso il Dottorato, la Laurea Magistrale e la Laurea Triennale in Informatica a Udine
 - Ho lavorato come programmatore in qualche azienda della zona
 - Ho fatto qualche app per Windows Phone che ha fatto <a href="images/downloads.JPG">un paio di milioni di download</a> prima che Microsoft abbandonasse il sistema operativo
 - Sono stato Microsoft Student Partner per diversi anni
@@ -57,8 +57,8 @@ Prima di oggi...
 	<p class="papertitle">Shut Up and Run: the Never-ending Quest for Social Fitness</p>
 	<p class="paperauthors">Linda Anticoli and Marco Basaldella</p>
 	<p class="paperdesc">Accepted for presentation at #RCBlackMirror2018: Re-Coding Black Mirror Workshop, co-located with the 27th International Conference on World Wide Web, April 24, Lyon, France</p>
-	<a href="#">[bib (coming soon)]</a>
-	<a href="#">[pdf (coming soon)]</a>
+	<a href="papers/www2018.bib">[bib]</a>
+	<a href="https://dl.acm.org/citation.cfm?id=3184558.3191609">[pdf and online version]</a>
 </li>
 <li>
 	<p class="papertitle">Bidirectional LSTM Recurrent Neural Network for Keyphrase Extraction</p>
