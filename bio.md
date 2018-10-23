@@ -57,8 +57,8 @@ Prima di oggi...
 	<p class="papertitle">Shut Up and Run: the Never-ending Quest for Social Fitness</p>
 	<p class="paperauthors">Linda Anticoli and Marco Basaldella</p>
 	<p class="paperdesc">Accepted for presentation at #RCBlackMirror2018: Re-Coding Black Mirror Workshop, co-located with the 27th International Conference on World Wide Web, April 24, Lyon, France</p>
-	<a href="#">[bib (coming soon)]</a>
-	<a href="#">[pdf (coming soon)]</a>
+	<a href="papers/www2018.bib">[bib]</a>
+	<a href="https://dl.acm.org/citation.cfm?id=3184558.3191609">[pdf and online version]</a>
 </li>
 <li>
 	<p class="papertitle">Bidirectional LSTM Recurrent Neural Network for Keyphrase Extraction</p>
