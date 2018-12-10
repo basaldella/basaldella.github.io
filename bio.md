@@ -14,12 +14,12 @@ permalink: bio.html
 <div role="tabpanel" class="tab-pane active" id="english" markdown="1">
 ## About me
 
-Hello, I am Marco Basaldella. I'm a research fellow and at University of Udine, in northeastern Italy. My research interests lie in the fields of machine learning and information extraction; right now, I am particularly interested in the intersection between the two, thanks to the new exciting opportunities offered by deep learning.
+Hello, I am Marco Basaldella. I'm a research associate at the [Language and Technology Lab](http://ltl.mml.cam.ac.uk/) at the University of Cambridge. My research interests lie in the fields of machine learning and natural language processing; right now, I am particularly interested in the intersection between the two, thanks to the new exciting opportunities offered by deep learning.  I have [Medium blog](https://medium.com/@basaldella.marco) <b>(in Italian)</b> where I occasionally write about AI in an hopefully accessible way, and I also like to talk about my research in public (for example you can see me [here](https://www.youtube.com/watch?v=nBZXQgXZN8A), speaking at TedX Varese).
 
 Before...
 
-- In 2016, I was a visiting researcher at the University of Zurich, at the Institute for Computer Linguistic for a couple of months
-- I got a PhD, a BSc and a MSc in Computer Science at the University of Udine
+- In 2016, I was a visiting researcher at the University of Zurich, at the [Institute for Computational Linguistics](https://www.uzh.ch/cmsssl/cl/) for a couple of months
+- I was a research associate at the University of Udine, where I obtained my PhD working in the [Artificial Intelligence Laboratory](http://ailab.uniud.it)
 - I worked as a developer for some local companies during my bachelors and masters
 - I made some apps for Windows Phone, that made <a href="images/downloads.JPG">a couple of millions downloads</a> before Microsoft decided to dump the OS
 - I was a Microsoft Student Partner for many years
@@ -33,11 +33,11 @@ Before...
 <div role="tabpanel" class="tab-pane" id="italiano" markdown="1">
 ## Chi sono
 
-Sono Marco Basaldella, un ricercatore dell'Università di Udine. I miei interessi in questo momento sono nei campi dell'information extraction e del machine learning; in particolare, in questo momento sono interessato all'intersezione tra i due ambiti, grazie alle nuove opportunità offerte dal deep learning.
+Sono Marco Basaldella, correntemente Research Associate al [Language and Technology Lab](http://ltl.mml.cam.ac.uk/) all'Università di Cambridge. I miei interessi in questo momento sono nei campi del natural language processing e del machine learning; in particolare, in questo momento sono interessato all'intersezione tra i due ambiti, grazie alle nuove opportunità offerte dal deep learning. Ho un [blog su Medium](https://medium.com/@basaldella.marco) dove ogni tanto parlo di Intelligenza Artificiale, e quando possibile mi piace anche parlarne in pubblico ([qua](https://www.youtube.com/watch?v=nBZXQgXZN8A), per esempio, il mio intervento a TedX Varese).
 
 Prima di oggi...
-- Nel 2016, sono stato ospite dell'Istituto per la Linguistica Computazionale dell'Università di Zurigo per un paio di mesi
-- Ho preso il Dottorato, la Laurea Magistrale e la Laurea Triennale in Informatica a Udine
+- Nel 2016, sono stato ospite dell'[Instituto per la Linguistica Computazionale](https://www.uzh.ch/cmsssl/cl/)  dell'Università di Zurigo per un paio di mesi
+- Ho lavorato come assegnista di ricerca all'Università di Udine, dove ho ottenuto il dottorato lavorando nel [Laboratorio di Intelligenza Artificiale](http://ailab.uniud.it)
 - Ho lavorato come programmatore in qualche azienda della zona
 - Ho fatto qualche app per Windows Phone che ha fatto <a href="images/downloads.JPG">un paio di milioni di download</a> prima che Microsoft abbandonasse il sistema operativo
 - Sono stato Microsoft Student Partner per diversi anni
