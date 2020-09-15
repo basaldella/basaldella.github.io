@@ -23,8 +23,8 @@ Before...
 - I worked as a developer for some local companies during my bachelors and masters
 - I made some apps for Windows Phone, that made <a href="images/downloads.JPG">a couple of millions downloads</a> before Microsoft decided to dump the OS
 - I was a Microsoft Student Partner for many years
-- I was among the founders of the FabLab of my city
-- I was one of the organizers of the Open Source Day (former Linux Day) of my city
+- I was among the founders of the FabLab of my hometown
+- I was one of the organizers of the Open Source Day (former Linux Day) of my hometown
 - I was president of AsCI (Associazione Cultura Informatica, literally Association for the Computer Science Culture), a student association at my university that organized the Open Source/Linux Day
 
 ## Publications
@@ -50,13 +50,47 @@ Prima di oggi...
 </div>
 </div>
 
+
+<h3>2020</h3>
+
+<ul>
+<li>
+	<p class="papertitle">COMETA: A Corpus for Medical Entity Linking in the Social Media</p>
+	<p class="paperauthors">Marco Basaldella, Fangyu Liu, Ehsan Shareghi, and Nigel Collier</p>
+	<p class="paperdesc">2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)</p>
+	<!--<a href="papers/www2018.bib">[bib]</a>
+	<a href="https://dl.acm.org/citation.cfm?id=3184558.3191609">[pdf]</a>-->
+</li>
+<li>
+	<p class="papertitle">Natural Language Processing for Achieving Sustainable Development: the Case of Neural Labelling to Enhance Community Profiling</p>
+	<p class="paperauthors">Costanza Conforti, Stephanie Hirmer, Dai Morgan, Marco Basaldella and Yau Ben Or</p>
+	<p class="paperdesc">2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)</p>
+	<!--<a href="papers/www2018.bib">[bib]</a>
+	<a href="https://dl.acm.org/citation.cfm?id=3184558.3191609">[pdf]</a>-->
+</li>
+</ul>
+
+
+<h3>2019</h3>
+
+<ul>
+<li>
+	<p class="papertitle">BioReddit: Word Embeddings for User-Generated Biomedical NLP</p>
+	<p class="paperauthors">Marco Basaldella and Nigel Collier</p>
+	<p class="paperdesc">Proceedings of Tenth International Workshop on Health Text Mining and Information Analysis, co-located with the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP 2019), November 3-7 2019, Hong Kong, China</p>
+	<a href="https://www.aclweb.org/anthology/D19-6205.bib">[bib]</a>
+	<a href="https://www.aclweb.org/anthology/D19-6205.pdf">[pdf]</a>
+	<a href="https://github.com/basaldella/bioreddit">[github]</a>
+</li>
+</ul>
+
 <h3>2018</h3>
 
 <ul>
 <li>
 	<p class="papertitle">Shut Up and Run: the Never-ending Quest for Social Fitness</p>
 	<p class="paperauthors">Linda Anticoli and Marco Basaldella</p>
-	<p class="paperdesc">Accepted for presentation at #RCBlackMirror2018: Re-Coding Black Mirror Workshop, co-located with the 27th International Conference on World Wide Web, April 24, Lyon, France</p>
+	<p class="paperdesc">#RCBlackMirror2018: Re-Coding Black Mirror Workshop, co-located with the 27th International Conference on World Wide Web, April 24, Lyon, France</p>
 	<a href="papers/www2018.bib">[bib]</a>
 	<a href="https://dl.acm.org/citation.cfm?id=3184558.3191609">[pdf and online version]</a>
 </li>
