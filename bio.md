@@ -14,18 +14,20 @@ permalink: bio.html
 <div role="tabpanel" class="tab-pane active" id="english" markdown="1">
 ## About me
 
-Hello, I am Marco Basaldella. I'm a research associate at the [Language and Technology Lab](http://ltl.mml.cam.ac.uk/) at the University of Cambridge. My research interests lie in the fields of machine learning and natural language processing; right now, I am particularly interested in the intersection between the two, thanks to the new exciting opportunities offered by deep learning.  I have [Medium blog](https://medium.com/@basaldella.marco) <b>(in Italian)</b> where I occasionally write about AI in an hopefully accessible way, and I also like to talk about my research in public (for example you can see me [here](https://www.youtube.com/watch?v=nBZXQgXZN8A), speaking at TedX Varese).
+Hello, I am Marco Basaldella. I work as Applied Scientist at Amazon Alexa in Cambridge, where I work on Semantic Parsing, Knowledge Base Question Answering, and Entity Linking, and I am also Affiliated Lecturer at the  [Language and Technology Lab](http://ltl.mml.cam.ac.uk/) at the University of Cambridge. I also occasionally write about artificial intelligence (in Italian) on my [Medium blog](https://medium.com/@basaldella.marco) or on my LinkedIn. You can see me [here](https://www.youtube.com/watch?v=nBZXQgXZN8A), speaking at TedX Varese (Italian again).
 
-Before...
+Previously...
 
-- In 2016, I was a visiting researcher at the University of Zurich, at the [Institute for Computational Linguistics](https://www.uzh.ch/cmsssl/cl/) for a couple of months
-- I was a research associate at the University of Udine, where I obtained my PhD working in the [Artificial Intelligence Laboratory](http://ailab.uniud.it)
-- I worked as a developer for some local companies during my bachelors and masters
-- I made some apps for Windows Phone, that made <a href="images/downloads.JPG">a couple of millions downloads</a> before Microsoft decided to dump the OS
-- I was a Microsoft Student Partner for many years
-- I was among the founders of the FabLab of my hometown
-- I was one of the organizers of the Open Source Day (former Linux Day) of my hometown
-- I was president of AsCI (Associazione Cultura Informatica, literally Association for the Computer Science Culture), a student association at my university that organized the Open Source/Linux Day
+- From 2018 to 2021, I was a postdoc at the [Language and Technology Lab](http://ltl.mml.cam.ac.uk/) at the University of Cambridge, where I worked on Natural Language Processing methods for health applications (also called BioNLP);
+- In 2016, I was a visiting researcher at the University of Zurich, at the [Institute for Computational Linguistics](https://www.uzh.ch/cmsssl/cl/) for a couple of months;
+- I was a research associate at the University of Udine, where I obtained my PhD working in the [Artificial Intelligence Laboratory](http://ailab.uniud.it);
+- I worked as a developer for some local companies during my bachelors and masters;
+- I made some apps for Windows Phone, that made <a href="images/downloads.JPG">a couple of millions downloads</a> before Microsoft decided to dump the OS;
+- I was a Microsoft Student Partner for many years;
+- I was among the founders of the Cambridge Chapter of <a href="https://airicerca.org/">AIRIcerca</a>, a worldwide association of Italian scientists and researchers;
+- I was among the founders of the FabLab of my hometown;
+- I was one of the organizers of the Open Source Day (former Linux Day) of my hometown;
+- I was president of AsCI (Associazione Cultura Informatica, literally Association for the Computer Science Culture), a student association at my university that organized the Open Source/Linux Day.
 
 ## Publications
 </div>
@@ -33,22 +35,44 @@ Before...
 <div role="tabpanel" class="tab-pane" id="italiano" markdown="1">
 ## Chi sono
 
-Sono Marco Basaldella, correntemente Research Associate al [Language and Technology Lab](http://ltl.mml.cam.ac.uk/) all'Università di Cambridge. I miei interessi in questo momento sono nei campi del natural language processing e del machine learning; in particolare, in questo momento sono interessato all'intersezione tra i due ambiti, grazie alle nuove opportunità offerte dal deep learning. Ho un [blog su Medium](https://medium.com/@basaldella.marco) dove ogni tanto parlo di Intelligenza Artificiale, e quando possibile mi piace anche parlarne in pubblico ([qua](https://www.youtube.com/watch?v=nBZXQgXZN8A), per esempio, il mio intervento a TedX Varese).
+Ciao! Sono Marco Basaldella, Applied Scientist in Amazon Alexa a Cambridge, dove lavoro su Semantic Parsing, Knowledge Base Question Answering e Entity Linking, e Affiliated Lecturer al [Language and Technology Lab](http://ltl.mml.cam.ac.uk/) all'Università di Cambridge. Ho un [blog su Medium](https://medium.com/@basaldella.marco) dove ogni tanto parlo di Intelligenza Artificiale, e quando possibile mi piace anche parlarne in pubblico ([qua](https://www.youtube.com/watch?v=nBZXQgXZN8A), per esempio, il mio intervento a TedX Varese).
 
-Prima di oggi...
-- Nel 2016, sono stato ospite dell'[Instituto per la Linguistica Computazionale](https://www.uzh.ch/cmsssl/cl/)  dell'Università di Zurigo per un paio di mesi
-- Ho lavorato come assegnista di ricerca all'Università di Udine, dove ho ottenuto il dottorato lavorando nel [Laboratorio di Intelligenza Artificiale](http://ailab.uniud.it)
-- Ho lavorato come programmatore in qualche azienda della zona
-- Ho fatto qualche app per Windows Phone che ha fatto <a href="images/downloads.JPG">un paio di milioni di download</a> prima che Microsoft abbandonasse il sistema operativo
-- Sono stato Microsoft Student Partner per diversi anni
-- Sono socio fondatore del FabLab di Udine
-- Sono stato tra gli organizzatori dell'Open Source Day (ex Linux Day) di Udine
-- Sono stato presidente di AsCI (Associazione Cultura Informatica), l'associazione studentesca che si occupava di organizzare l'Open Source Day
+In precedenza...
+- Dal 2018 al 2021, ero un postdoc al [Language and Technology Lab](http://ltl.mml.cam.ac.uk/) dell'Università di Cambridge, dove o lavorato a progetti di linguistica computazionale su salute e social media;
+- Nel 2016, sono stato ospite dell'[Instituto per la Linguistica Computazionale](https://www.uzh.ch/cmsssl/cl/)  dell'Università di Zurigo per un paio di mesi;
+- Ho lavorato come assegnista di ricerca all'Università di Udine, dove ho ottenuto il dottorato lavorando nel [Laboratorio di Intelligenza Artificiale](http://ailab.uniud.it);
+- Ho lavorato come programmatore in qualche azienda della zona;
+- Ho fatto qualche app per Windows Phone che ha fatto <a href="images/downloads.JPG">un paio di milioni di download</a> prima che Microsoft abbandonasse il sistema operativo;
+- Sono stato Microsoft Student Partner per diversi anni;
+- Sono socio fondatore del Cambridge Chapter di <a href="https://airicerca.org/">AIRIcerca</a>, l’associazione internazionale dei ricercatori italiani nel mondo;
+- Sono socio fondatore del FabLab di Udine;
+- Sono stato tra gli organizzatori dell'Open Source Day (ex Linux Day) di Udine;
+- Sono stato presidente di AsCI (Associazione Cultura Informatica), l'associazione studentesca che si occupava di organizzare l'Open Source Day e il Linux Day all'Università di Udine
 
 	
 ## Pubblicazioni
 </div>
 </div>
+
+<h3>2021</h3>
+
+<ul>
+<li>
+	<p class="papertitle">Self-Alignment Pretraining for Biomedical Entity Representations</p>
+	<p class="paperauthors">Fangyu Liu, Ehsan Shareghi, Zaiquiao Meng, Marco Basaldella and Nigel Collier</p>
+	<p class="paperdesc">2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL 2021)</p>
+	<a href="https://aclanthology.org/2021.naacl-main.334.bib">[bib]</a>
+	<a href="https://aclanthology.org/2021.naacl-main.334.pdf">[pdf]</a>
+</li>
+<li>
+	<p class="papertitle">Adversarial Training for News Stance Detection: Leveraging Signals from a Multi-Genre Corpus</p>
+	<p class="paperauthors">Costanza Conforti, Jakob Berndt, Marco Basaldella, Mohammad Taher Pilehvar, Chryssi Giannitsarou, Flavio Toxvaerd, and Nigel Collier</p>
+	<p class="paperdesc">2021 EACL Hackashop on News Media Content Analysis and Automated Report Generation</p>
+	<a href="https://aclanthology.org/2021.hackashop-1.1.bib">[bib]</a>
+	<a href="https://aclanthology.org/2021.hackashop-1.1.pdf">[pdf]</a>
+	</li>
+</ul>
+
 
 
 <h3>2020</h3>
@@ -58,16 +82,17 @@ Prima di oggi...
 	<p class="papertitle">COMETA: A Corpus for Medical Entity Linking in the Social Media</p>
 	<p class="paperauthors">Marco Basaldella, Fangyu Liu, Ehsan Shareghi, and Nigel Collier</p>
 	<p class="paperdesc">2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)</p>
-	<!--<a href="papers/www2018.bib">[bib]</a>
-	<a href="https://dl.acm.org/citation.cfm?id=3184558.3191609">[pdf]</a>-->
+	<a href="https://aclanthology.org/2020.emnlp-main.253.bib">[bib]</a>
+	<a href="https://aclanthology.org/2020.emnlp-main.253.pdf">[pdf]</a>
+	<a href="https://github.com/cambridgeltl/cometa">[github]</a>
 </li>
 <li>
 	<p class="papertitle">Natural Language Processing for Achieving Sustainable Development: the Case of Neural Labelling to Enhance Community Profiling</p>
 	<p class="paperauthors">Costanza Conforti, Stephanie Hirmer, Dai Morgan, Marco Basaldella and Yau Ben Or</p>
 	<p class="paperdesc">2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)</p>
-	<!--<a href="papers/www2018.bib">[bib]</a>
-	<a href="https://dl.acm.org/citation.cfm?id=3184558.3191609">[pdf]</a>-->
-</li>
+	<a href="https://aclanthology.org/2020.emnlp-main.677.bib">[bib]</a>
+	<a href="https://aclanthology.org/2020.emnlp-main.677.pdf">[pdf]</a>
+	</li>
 </ul>
 
 
