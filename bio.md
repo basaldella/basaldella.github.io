@@ -14,11 +14,12 @@ permalink: bio.html
 <div role="tabpanel" class="tab-pane active" id="english" markdown="1">
 ## About me
 
-Hello, I am Marco Basaldella. I work as Applied Scientist at Amazon Alexa in Cambridge, where I work on Semantic Parsing, Knowledge Base Question Answering, and Entity Linking, and I am also Affiliated Lecturer at the  [Language and Technology Lab](http://ltl.mml.cam.ac.uk/) at the University of Cambridge. I also occasionally write about artificial intelligence (in Italian) on my [Medium blog](https://medium.com/@basaldella.marco) or on my LinkedIn. You can see me [here](https://www.youtube.com/watch?v=nBZXQgXZN8A), speaking at TedX Varese (Italian again).
+Hi! I'm Marco Basaldella, CTO and co-founder at [Trismik](https://trismik.com). We are an LLM evaluation company that aims to build science-grade, easy-to-use evaluation tools for AI-based systems. As a CTO, I have to wear many, many hats - I oversee the technical roadmap of the engineering team, I lead the science team to develop our agents and evaluations, and I work with the product team to design our amazing products. I am involved in every stage of the products and I love every part of them - from designing prototypes, to making them real-world products, and to working with our users to make our tools better every day.
 
 Previously...
 
-- From 2018 to 2021, I was a postdoc at the [Language and Technology Lab](http://ltl.mml.cam.ac.uk/) at the University of Cambridge, where I worked on Natural Language Processing methods for health applications (also called BioNLP);
+- From 2021 to 2025, I was an Applied Scientist at Amazon in Cambridge, where I worked on Alexa and on the AGI team. In Alexa, I was part of the team tasked with giving her real-world knowledge - using techniques called Semantic Parsing, Knowledge Base Question Answering, and Entity Linking - in other words, translating your questions (for example, "where was Pink Floyd's first guitarist born?") to queries, and executing these queries to find the answers (in this case, "Syd Barrett was born in Cambridge, UK.") I then worked on the transition from "classic" Alexa to LLM-based Alexa, being part of the group that built the first demo (Let's Chat), which then became Banyan and then Alexa Plus. Meanwhile, I transitioned to the AGI team, where I worked on the post-training of Nova models for specific use cases.
+- From 2018 to 2021, I was a postdoc at the [Language and Technology Lab](http://ltl.mml.cam.ac.uk/) at the University of Cambridge, where I worked on Natural Language Processing methods for health applications (also called BioNLP); I remained an Affiliated Lecturer until 2025.
 - In 2016, I was a visiting researcher at the University of Zurich, at the [Institute for Computational Linguistics](https://www.uzh.ch/cmsssl/cl/) for a couple of months;
 - I was a research associate at the University of Udine, where I obtained my PhD working in the [Artificial Intelligence Laboratory](http://ailab.uniud.it);
 - I worked as a developer for some local companies during my bachelors and masters;
@@ -35,19 +36,21 @@ Previously...
 <div role="tabpanel" class="tab-pane" id="italiano" markdown="1">
 ## Chi sono
 
-Ciao! Sono Marco Basaldella, Applied Scientist in Amazon Alexa a Cambridge, dove lavoro su Semantic Parsing, Knowledge Base Question Answering e Entity Linking, e Affiliated Lecturer al [Language and Technology Lab](http://ltl.mml.cam.ac.uk/) all'Università di Cambridge. Ho un [blog su Medium](https://medium.com/@basaldella.marco) dove ogni tanto parlo di Intelligenza Artificiale, e quando possibile mi piace anche parlarne in pubblico ([qua](https://www.youtube.com/watch?v=nBZXQgXZN8A), per esempio, il mio intervento a TedX Varese).
+Ciao! Sono Marco Basaldella, CTO e co-fondatore di [Trismik](https://trismik.com), un'azienda che si occupa di sviluppare strumenti di valutazione di IA che siano allo stesso tempo affidabili, scientifici, e facili da usare. Come CTO di una startup, nella mia giornata occupo molti, molti ruolo - supervisiono la roadmap tecnica del team di sviluppo, guido il team scientifico nella progettazione nostri agenti e delle nostre techniche di evaluation, e lavoro con il team di prodotto per progettare i nostri fantastici prodotti. Sono coinvolto in ogni fase dei prodotti e ne amo ogni parte - dalla progettazione dei prototipi, alla loro trasformazione in prodotti reali, fino al lavoro con i nostri utenti per migliorare i nostri strumenti ogni giorno.
 
 In precedenza...
-- Dal 2018 al 2021, ero un postdoc al [Language and Technology Lab](http://ltl.mml.cam.ac.uk/) dell'Università di Cambridge, dove o lavorato a progetti di linguistica computazionale su salute e social media;
-- Nel 2016, sono stato ospite dell'[Instituto per la Linguistica Computazionale](https://www.uzh.ch/cmsssl/cl/)  dell'Università di Zurigo per un paio di mesi;
-- Ho lavorato come assegnista di ricerca all'Università di Udine, dove ho ottenuto il dottorato lavorando nel [Laboratorio di Intelligenza Artificiale](http://ailab.uniud.it);
-- Ho lavorato come programmatore in qualche azienda della zona;
+
+- Dal 2021 al 2025, sono stato Applied Scientist in Amazon a Cambridge, dove ho lavorato su Alexa e nel team AGI. In Alexa, facevo parte del team incaricato di fornirle conoscenza del mondo reale - usando tecniche chiamate Semantic Parsing, Knowledge Base Question Answering ed Entity Linking - in altre parole, traducendo le tue domande (per esempio, "dove è nato il primo chitarrista dei Pink Floyd?") in query, ed eseguendo queste query per trovare le risposte (in questo caso, "Syd Barrett è nato a Cambridge, Regno Unito.") Ho poi lavorato alla transizione dalla Alexa "classica", pre-LLM, ad Alexa basata su LLM, facendo parte del gruppo che ha costruito la prima demo (Let's Chat), che è poi diventata Banyan e infine Alexa Plus. Nel frattempo, sono passato al team AGI, dove ho lavorato al post-training dei modelli Nova.
+- Dal 2018 al 2021, sono stato postdoc al [Language and Technology Lab](http://ltl.mml.cam.ac.uk/) dell'Università di Cambridge, dove ho lavorato su metodi di Natural Language Processing per applicazioni in ambito sanitario (noto anche come BioNLP); sono rimasto Affiliated Lecturer fino al 2025.
+- Nel 2016, sono stato visiting researcher all'Università di Zurigo, all'[Istituto di Linguistica Computazionale](https://www.uzh.ch/cmsssl/cl/) per un paio di mesi;
+- Sono stato assegnista di ricerca all'Università di Udine, dove ho ottenuto il dottorato lavorando nel [Laboratorio di Intelligenza Artificiale](http://ailab.uniud.it);
+- Ho lavorato come sviluppatore per qualche azienda della zona durante la triennale e la magistrale;
 - Ho fatto qualche app per Windows Phone che ha fatto <a href="images/downloads.JPG">un paio di milioni di download</a> prima che Microsoft abbandonasse il sistema operativo;
 - Sono stato Microsoft Student Partner per diversi anni;
-- Sono socio fondatore del Cambridge Chapter di <a href="https://airicerca.org/">AIRIcerca</a>, l’associazione internazionale dei ricercatori italiani nel mondo;
-- Sono socio fondatore del FabLab di Udine;
-- Sono stato tra gli organizzatori dell'Open Source Day (ex Linux Day) di Udine;
-- Sono stato presidente di AsCI (Associazione Cultura Informatica), l'associazione studentesca che si occupava di organizzare l'Open Source Day e il Linux Day all'Università di Udine
+- Sono tra i fondatori del Cambridge Chapter di <a href="https://airicerca.org/">AIRIcerca</a>, un'associazione mondiale di scienziati e ricercatori italiani;
+- Sono tra i fondatori del FabLab della mia città;
+- Sono stato tra gli organizzatori dell'Open Source Day (ex Linux Day) della mia città;
+- Sono stato presidente di AsCI (Associazione Cultura Informatica), un'associazione studentesca della mia università che organizzava l'Open Source/Linux Day.
 
 	
 ## Pubblicazioni
