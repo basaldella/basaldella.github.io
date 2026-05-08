@@ -54,6 +54,56 @@ In precedenza...
 </div>
 </div>
 
+<h3>2026</h3>
+
+<ul>
+<li>
+	<p class="papertitle">Confident Rankings with Fewer Items: Adaptive LLM Evaluation with Continuous Scores</p>
+	<p class="paperauthors">Esma Balkır, Alice Pernthaller, Marco Basaldella, José Hernández-Orallo, and Nigel Collier</p>
+	<p class="paperdesc">arXiv preprint arXiv:2601.13885, 2026</p>
+	<a href="papers/arxiv2026.bib">[bib]</a>
+	<a href="https://arxiv.org/abs/2601.13885">[pdf]</a>
+</li>
+<li>
+	<p class="papertitle">Bridging language models and knowledge graphs with controlled natural languages</p>
+	<p class="paperauthors">Dhananjay Bhandiwad, Preetam Gattogi, Ashish Kangen, Marco Basaldella, Sébastien Ferré, Sahar Vahdati, and Jens Lehmann</p>
+	<p class="paperdesc">Knowledge-Based Systems, 2026, 337:115405</p>
+	<a href="papers/kbs2026.bib">[bib]</a>
+	<a href="https://doi.org/10.1016/j.knosys.2026.115405">[pdf]</a>
+</li>
+</ul>
+
+<h3>2025</h3>
+
+<ul>
+<li>
+	<p class="papertitle">Multi-Trigger Poisoning Amplifies Backdoor Vulnerabilities in LLMs</p>
+	<p class="paperauthors">Sanhanat Sivapiromrat, Caiqi Zhang, Marco Basaldella, and Nigel Collier</p>
+	<p class="paperdesc">arXiv preprint arXiv:2507.11112, 2025</p>
+	<a href="papers/arxiv2025.bib">[bib]</a>
+	<a href="https://arxiv.org/abs/2507.11112">[pdf]</a>
+</li>
+</ul>
+
+<h3>2024</h3>
+
+<ul>
+<li>
+	<p class="papertitle">LUQ: Long-text Uncertainty Quantification for LLMs</p>
+	<p class="paperauthors">Caiqi Zhang, Fangyu Liu, Marco Basaldella, and Nigel Collier</p>
+	<p class="paperdesc">2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)</p>
+	<a href="papers/emnlp2024.bib">[bib]</a>
+	<a href="https://aclanthology.org/2024.emnlp-main.299.pdf">[pdf]</a>
+</li>
+<li>
+	<p class="papertitle">Handling Ontology Gaps in Semantic Parsing</p>
+	<p class="paperauthors">Andrea Bacciu, Marco Damonte, Marco Basaldella, and Emilio Monti</p>
+	<p class="paperdesc">13th Joint Conference on Lexical and Computational Semantics (*SEM 2024)</p>
+	<a href="papers/starsem2024.bib">[bib]</a>
+	<a href="https://aclanthology.org/2024.starsem-1.28.pdf">[pdf]</a>
+</li>
+</ul>
+
 <h3>2021</h3>
 
 <ul>
